@@ -9,6 +9,7 @@ libraryDependencies ++= Seq(
   "org.xerial" % "sqlite-jdbc" % "3.36.0.3",
   "org.scalatra" %% "scalatra" % "2.7.0",
   "javax.servlet" % "javax.servlet-api" % "4.0.1" % "provided"
+  "org.scala-sbt" % "compiler-bridge_2.13" % "1.10.2"
 )
 
 scalacOptions ++= Seq(
