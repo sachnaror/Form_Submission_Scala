@@ -28,7 +28,7 @@ Oh, and after thanking you (because manners matter), it politely sends you back 
 	```
 	git clone https://github.com/your-cool-username/scala-contact-form.git
     cd scala-contact-form
-
+    ```
 
 
 
@@ -37,12 +37,14 @@ Oh, and after thanking you (because manners matter), it politely sends you back 
 
     ```
     sbt run
+
     ```
 
     4.	Open your browser and visit:
 
     ```
     http://localhost:8080
+
     ```
 
     5.	Fill out the form, and bask in the glory of that Thank You message.
