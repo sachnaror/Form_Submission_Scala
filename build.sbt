@@ -1,13 +1,14 @@
-name := "Form_Submission_Scala"
+
+name := "Scala Contact Form"
 
 version := "0.1"
 
 scalaVersion := "2.13.8"
 
 libraryDependencies ++= Seq(
-  "org.scalatest" %% "scalatest" % "3.2.12" % Test,
-  "ch.qos.logback" % "logback-classic" % "1.2.11",
-  "com.typesafe" % "config" % "1.4.1"
+  "org.xerial" % "sqlite-jdbc" % "3.36.0.3",
+  "org.scalatra" %% "scalatra" % "2.7.0",
+  "javax.servlet" % "javax.servlet-api" % "4.0.1" % "provided"
 )
 
 scalacOptions ++= Seq(
@@ -18,3 +19,4 @@ scalacOptions ++= Seq(
 )
 
 testOptions in Test += Tests.Argument("-oD")
+
