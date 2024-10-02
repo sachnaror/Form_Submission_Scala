@@ -6,10 +6,10 @@ Oh, and after thanking you (because manners matter), it politely sends you back 
 
 🎨 Features
 
-	•	A contact form so simple, even your grandma could fill it out (and we hope she does).
-	•	Uses Scala and SQLite – because, why not? You’ve got to stay classy with Scala.
-	•	Stylish Bootstrap 5 form – because ugly forms don’t get contacts.
-	•	A thank-you page with a 3-second delay. Why 3 seconds? Because 2 felt too rushed, and 4 is just too long.
+	- A contact form so simple, even your grandma could fill it out (and we hope she does).
+	- Uses Scala and SQLite – because, why not? You’ve got to stay classy with Scala.
+	- Stylish Bootstrap 5 form – because ugly forms don’t get contacts.
+	- A thank-you page with a 3-second delay. Why 3 seconds? Because 2 felt too rushed, and 4 is just too long.
 
 🛠️ How It Works
 
@@ -51,29 +51,29 @@ Oh, and after thanking you (because manners matter), it politely sends you back 
 
 🧙‍♂️ Magical Dependencies
 
-		•	Scala: Because it’s like Java, but fancier and makes you feel smarter.
-		•	SQLite: Keeps your contacts locked in a vault… on your local machine. No cloud nonsense here.
-		•	Bootstrap 5: Forms have never looked this good, seriously.
+		- Scala: Because it’s like Java, but fancier and makes you feel smarter.
+		- SQLite: Keeps your contacts locked in a vault… on your local machine. No cloud nonsense here.
+		- Bootstrap 5: Forms have never looked this good, seriously.
 
 
 🚨 Warning
 
 	We take no responsibility if:
 
-		•	You end up contacting yourself.
-		•	Your details get saved more times than you can count.
-		•	You get so mesmerized by the thank-you page that you lose track of time.
+		- You end up contacting yourself.
+		- Your details get saved more times than you can count.
+		- You get so mesmerized by the thank-you page that you lose track of time.
 
 🤔 Why Build This?
 
-		•	Because Scala deserves more love (and more contact forms).
-		•	Because your contacts are lonely and need a good home.
+		- Because Scala deserves more love (and more contact forms).
+		- Because your contacts are lonely and need a good home.
 
 🦄 Special Thanks
 
-		•	To Scala, for making us feel smarter.
-		•	To SQLite, for holding onto the contacts like a true champ.
-		•	To Bootstrap, for making things look pretty with zero effort.
+		- To Scala, for making us feel smarter.
+		- To SQLite, for holding onto the contacts like a true champ.
+		- To Bootstrap, for making things look pretty with zero effort.
 
 Now go ahead, fill out that form – the Thank You page is waiting. 😎
 
